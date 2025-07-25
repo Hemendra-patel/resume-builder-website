@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .resume {
+  height: 100%;
+  display: flex;
+  position: relative;
+} */
+.profile {
+  height: 30%;
+  width: 300%;
+  background-color: rgb(212, 165, 57);
+  clip-path: polygon(0 0, 100% 0, 100% 70%, 0 35%);
+}
+
